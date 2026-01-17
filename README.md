@@ -25,7 +25,7 @@ After **16+ years at The Weather Company (IBM)**, building products used by mill
 🌱 **Currently exploring:** better patterns for large applications, thoughtful uses of AI in everyday workflows, and maintaining design systems at scale
 
 
-📍 **Currently based in** Woodstock, GA 🍑
+📍 **Based in** Greater Atlanta Area, GA 🍑
 
 ---
 
