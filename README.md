@@ -38,18 +38,6 @@ After **16+ years at The Weather Company (IBM)**, building products used by mill
 
 ---
 
-## ✨ What I’m Creating
-
-🎪 **[Baldie Con](https://baldiecon.com)**  
-A digital platform for a conference celebrating confidence, visibility, and community for people with hair loss.
-
-🌸 **[Becoming & Bloom](https://becomingandbloom.com)**  
-A faith-based WordPress lifestyle publication focused on intentional living, gentle transformation, and soft-life practices.
-
-🎁 **[Wishkeeper](https://wishkeeperapp.com)**  
-A gift coordination SaaS that simplifies thoughtful gifting through recipient profiles, tracking, and AI-assisted recommendations.
-
----
 
 ## ✨ How I Build
 
