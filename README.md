@@ -1,7 +1,7 @@
 # Hi, I’m Crystal  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDF1MGJjcnBvamViNXYzbDh0bjJxNnAydHZzaWhiaWQ3YWFidjkzcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x4yndp5BYEe7jWfMQh/giphy.gif" width="50" alt="Hello wave" />
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E60073&width=435&lines=Senior+Full-Stack+Developer;React+%26+TypeScript;Accessibility-First;Bridging+systems+and+screens;Building+with+purpose)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E60073&width=435&lines=Senior+Front-End+Developer;React+%26+TypeScript;Accessibility-First;Bridging+systems+and+screens;Building+with+purpose)
 
 
 
