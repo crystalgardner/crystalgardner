@@ -7,11 +7,11 @@
 
 *Crafting thoughtful, user-centered and accessible web experiences, one line of clean code at a time* 🩷
 
-**Senior Front-End / Full-Stack Developer** with 17 years of experience building accessible, high-impact digital products used by millions. I focus on clarity, performance, and purpose to create products that are clear, reliable, and easy to use.
+**Senior Front-End Developer** with 17 years of experience building accessible, high-impact digital products used by millions. I focus on clarity, performance, and purpose to create products that are clear, reliable, and easy to use.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E60073.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crystalreyes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSI0IiBzdHJva2Utd2lkdGg9Ijg1LjMzMzMiIHN0cm9rZT0iI2ZmZmZmZiIgZD0iTTY4Mi42NjcgMzQxLjMzM2MxNDEuMzg1IDAgMjU2IDExNC42MTUgMjU2IDI1NnYwIDI5OC42NjdoLTE3MC42Njd2LTI5OC42NjdjMC00Ny4xMjgtMzguMjA1LTg1LjMzMy04NS4zMzMtODUuMzMzdjBjLTQ3LjEyOCAwLTg1LjMzMyAzOC4yMDUtODUuMzMzIDg1LjMzM3YwIDI5OC42NjdoLTE3MC42Njd2LTI5OC42NjdjMC0xNDEuMzg1IDExNC42MTUtMjU2IDI1Ni0yNTZ2MHoiPjwvcGF0aD4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iNCIgc3Ryb2tlLXdpZHRoPSI4NS4zMzMzIiBzdHJva2U9IiNmZmZmZmYiIGQ9Ik04NS4zMzMgMzg0aDE3MC42Njd2NTEyaC0xNzAuNjY3di01MTJ6Ij48L3BhdGg+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjQiIHN0cm9rZS13aWR0aD0iODUuMzMzMyIgc3Ryb2tlPSIjZmZmZmZmIiBkPSJNMjU2IDE3MC42NjdjMCA0Ny4xMjgtMzguMjA1IDg1LjMzMy04NS4zMzMgODUuMzMzcy04NS4zMzMtMzguMjA1LTg1LjMzMy04NS4zMzNjMC00Ny4xMjggMzguMjA1LTg1LjMzMyA4NS4zMzMtODUuMzMzczg1LjMzMyAzOC4yMDUgODUuMzMzIDg1LjMzM3oiPjwvcGF0aD4KPC9zdmc+Cg==)](https://www.linkedin.com/in/crystalreyesdev)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:crystalreyesdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:hi@crystalreyes.dev)
 
 ---
 
@@ -106,7 +106,7 @@ If you’re hiring for a senior engineer who cares deeply about users, accessibi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E60073.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crystalreyes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSI0IiBzdHJva2Utd2lkdGg9Ijg1LjMzMzMiIHN0cm9rZT0iI2ZmZmZmZiIgZD0iTTY4Mi42NjcgMzQxLjMzM2MxNDEuMzg1IDAgMjU2IDExNC42MTUgMjU2IDI1NnYwIDI5OC42NjdoLTE3MC42Njd2LTI5OC42NjdjMC00Ny4xMjgtMzguMjA1LTg1LjMzMy04NS4zMzMtODUuMzMzdjBjLTQ3LjEyOCAwLTg1LjMzMyAzOC4yMDUtODUuMzMzIDg1LjMzM3YwIDI5OC42NjdoLTE3MC42Njd2LTI5OC42NjdjMC0xNDEuMzg1IDExNC42MTUtMjU2IDI1Ni0yNTZ2MHoiPjwvcGF0aD4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iNCIgc3Ryb2tlLXdpZHRoPSI4NS4zMzMzIiBzdHJva2U9IiNmZmZmZmYiIGQ9Ik04NS4zMzMgMzg0aDE3MC42Njd2NTEyaC0xNzAuNjY3di01MTJ6Ij48L3BhdGg+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjQiIHN0cm9rZS13aWR0aD0iODUuMzMzMyIgc3Ryb2tlPSIjZmZmZmZmIiBkPSJNMjU2IDE3MC42NjdjMCA0Ny4xMjgtMzguMjA1IDg1LjMzMy04NS4zMzMgODUuMzMzcy04NS4zMzMtMzguMjA1LTg1LjMzMy04NS4zMzNjMC00Ny4xMjggMzguMjA1LTg1LjMzMyA4NS4zMzMtODUuMzMzczg1LjMzMyAzOC4yMDUgODUuMzMzIDg1LjMzM3oiPjwvcGF0aD4KPC9zdmc+Cg==)](https://www.linkedin.com/in/crystalreyesdev)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:crystalreyesdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:hi@crystalreyes.dev)
 
 ---
 
